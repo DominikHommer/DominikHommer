@@ -15,8 +15,12 @@ Welcome to my GitHub! I'm currently a fourth-semester student studying Artificia
 - ⚡ **Fun Fact:** I love diving into datasets and finding patterns that tell a story. There’s something magical about turning data into insights!
 
 ## My Projects
+### Currently in Progress 🚧
 
-Here you'll find projects ranging from the simple to the complex, all showcasing my journey as a developer and my passion for artificial intelligence and data science. Whether it's building machine learning models, developing software in C++, or analyzing data, each project reflects my commitment to learning and growth in this dynamic field.
+I'm in the process of building up my GitHub repositories, moving projects from local storage to the cloud to share my journey as a developer more publicly. You'll soon find projects here ranging from the simple to the complex, all showcasing my passion for artificial intelligence and data science.
+
+Whether it's building machine learning models, developing software in C++, or analyzing data, each project is a reflection of my commitment to learning and growth in this dynamic field. Please note that this section is currently under construction as I work to upload and document my work. Stay tuned for updates!
+
 
 ---
 
