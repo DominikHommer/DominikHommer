@@ -23,7 +23,7 @@ Here you'll find projects ranging from the simple to the complex, all showcasing
 
 I'm always looking to improve and work on interesting projects. If you have any suggestions or want to connect, don't hesitate to reach out!
 
-<a href="www.linkedin.com/in/dominik-hommer-4bb808287">
+<a href="https://www.linkedin.com/in/dominik-hommer-4bb808287">
   <img align="left" width="100px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
