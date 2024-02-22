@@ -12,7 +12,6 @@ Welcome to my GitHub! I'm currently a fourth-semester student studying Artificia
 - 🌱 **Currently Learning:** I’m on a continuous journey to deepen my knowledge in AI and Data Science, exploring advanced machine learning techniques and enhancing my programming skills in Python and C++.
 - 💞️ **Looking to Collaborate:** I’m eager to collaborate on projects related to machine learning and data analysis. If you're working on something exciting and think I can contribute, let's connect!
 - 📫 **How to Reach Me:** Feel free to reach out to me for collaborations or just to chat about tech and data science.
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love diving into datasets and finding patterns that tell a story. There’s something magical about turning data into insights!
 
 ## My Projects
