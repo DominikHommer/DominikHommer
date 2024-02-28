@@ -14,8 +14,6 @@ Welcome to my GitHub! I'm currently a fourth-semester student studying Artificia
 - 📫 **How to Reach Me:** Feel free to reach out to me for collaborations or just to chat about tech and data science.
 - ⚡ **Fun Fact:** I love diving into datasets and finding patterns that tell a story. There’s something magical about turning data into insights!
 
-- ![Ihre GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=DominikHommer&theme=default)
-
 
 ## My Projects
 ### Currently in Progress 🚧
