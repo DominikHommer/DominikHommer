@@ -14,7 +14,6 @@ Welcome to my GitHub! I'm currently a fourth-semester student studying Artificia
 - 📫 **How to Reach Me:** Feel free to reach out to me for collaborations or just to chat about tech and data science.
 - ⚡ **Fun Fact:** I love diving into datasets and finding patterns that tell a story. There’s something magical about turning data into insights!
 
-
 ## My Projects
 ### Currently in Progress 🚧
 
@@ -22,6 +21,11 @@ I'm in the process of building up my GitHub repositories, moving projects from l
 
 Whether it's building machine learning models, developing software in C++, or analyzing data, each project is a reflection of my commitment to learning and growth in this dynamic field. Please note that this section is currently under construction as I work to upload and document my work. Stay tuned for updates!
 
+## LeetCode Stats
+
+<!-- BEGIN LEETCODE STATS -->
+<!-- LeetCode stats will be dynamically inserted here -->
+<!-- END LEETCODE STATS -->
 
 ---
 
@@ -35,3 +39,4 @@ I'm always looking to improve and work on interesting projects. If you have any 
 DominikHommer/DominikHommer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
