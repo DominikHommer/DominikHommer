@@ -32,4 +32,6 @@ jobs:
         git add README.md
         git commit -m 'Update README with latest LeetCode stats'
         git push
+    env:
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
       
