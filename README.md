@@ -23,7 +23,7 @@ Whether it's building machine learning models, developing software in C++, or an
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DominikHom?theme=dark&font=Telex&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DominikHom?theme=dark&font=OpenSans&ext=heatmap)
 
 ---
 
