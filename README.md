@@ -23,11 +23,7 @@ Whether it's building machine learning models, developing software in C++, or an
 
 ## LeetCode Stats
 
-<!-- BEGIN LEETCODE STATS -->
-## LeetCode Stats for DominikHom
-- Solved Problems: 0
-
-<!-- END LEETCODE STATS -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/DominikHom?ext=contest)
 
 ---
 
