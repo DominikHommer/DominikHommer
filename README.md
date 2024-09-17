@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/qtzt8Lz.gif" alt="Terminal Begrüßung">
+  <img src="https://i.imgur.com/qtzt8Lz.gif" alt="Terminal Greeting">
 </p>
 
 # Hi, I’m Dominik 👋
 
-Welcome to my GitHub! I'm currently a fourth-semester student studying Artificial Intelligence and Data Science at the [Faculty of Computer Science and Mathematics](https://informatik-mathematik.oth-regensburg.de) at Ostbayerische Technische Hochschule Regensburg.
+Welcome to my GitHub! I'm currently a fifth-semester student studying Artificial Intelligence and Data Science at the [Faculty of Computer Science and Mathematics](https://informatik-mathematik.oth-regensburg.de) at Ostbayerische Technische Hochschule Regensburg.
 
 ## About Me
 
@@ -13,6 +13,11 @@ Welcome to my GitHub! I'm currently a fourth-semester student studying Artificia
 - 💞️ **Looking to Collaborate:** I’m eager to collaborate on projects related to machine learning and data analysis. If you're working on something exciting and think I can contribute, let's connect!
 - 📫 **How to Reach Me:** Feel free to reach out to me for collaborations or just to chat about tech and data science.
 - ⚡ **Fun Fact:** I love diving into datasets and finding patterns that tell a story. There’s something magical about turning data into insights!
+
+## 🌐 Website
+
+Visit my website at [dominikhommer.live](https://dominikhommer.live) for detailed information on my projects, CV, and more. You can also find the repository for my portfolio website [here](https://github.com/DominikHommer/MyPortfolio).
+
 
 ## My Projects
 ### Currently in Progress 🚧
