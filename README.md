@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm currently a fifth-semester student studying Artificial
 
 ## 🌐 Website
 
-Visit my website at [dominikhommer.live](https://dominikhommer.live) for detailed information on my projects, CV, and more. You can also find the repository for my portfolio website [here](https://github.com/DominikHommer/MyPortfolio).
+Visit my website at [dominikhommer.live](https://dominikhommer.live) for detailed information on my projects, CV, and more. You can also find the repository for my portfolio website [here](https://github.com/DominikHommer/MyPortfolio). (not yet optimized for mobile phone)
 
 
 ## My Projects
